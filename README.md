@@ -45,8 +45,6 @@ Neeche maine saare **possible reasons + solutions** ekdum clear aur structured f
   - ❌ Problem: Storage/Camera/Microphone access block hone se glitch hota hai  
   - ✅ Fix: App settings me jaa kar permissions allow karo  
 
----
-
 ### 🌐 Instagram Side Issues  
 
 - 🌍 **Server Down / Global Bug**  
