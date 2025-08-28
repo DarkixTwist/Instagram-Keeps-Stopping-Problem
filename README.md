@@ -68,6 +68,22 @@ Neeche maine saare **possible reasons + solutions** ekdum clear aur structured f
 
 ---
 
+## 📱 Device-Specific Issues  
+
+### 🔻 Zyada Affected Brands (frequent crash issues)  
+- **Oppo, Vivo, Realme, iQOO, Xiaomi (MIUI devices)**  
+  - ❌ Problem: In devices me **heavy system customization** (ColorOS, FuntouchOS, MIUI) hota hai jisse Instagram ke sath compatibility issues aate hain.  
+  - ✅ Fix:  
+    - Battery optimization → Instagram ko "Don’t optimize" set karo  
+    - Background activity enable rakho  
+    - System + Instagram dono latest update karo  
+
+### 🔺 Relatively Stable Brands  
+- **Samsung, OnePlus, Pixel, Motorola**  
+  - ✅ In phones me stock Android ya optimized UI hota hai jisse app crash rare hoti hai.  
+
+---
+
 ## 💡 How to Identify Quickly  
 
 - ✅ Agar **sirf tumhare phone me issue ho** → Mostly **Phone Side Reasons**  
@@ -79,6 +95,4 @@ Neeche maine saare **possible reasons + solutions** ekdum clear aur structured f
 
 - ✍️ Written & Structured By: **Sia Spride – InstaPrime Helper**  
 - 📌 Usage: Ye guide sirf **educational aur informational purposes** ke liye hai.  
-- ⚖️ Disclaimer: Instagram ek **Meta Platforms Inc.** ka product hai. Ye guide unse officially linked nahi hai.  
-
----
+- ⚖️ Disclaimer: Instagram ek **Meta Platforms Inc.** ka product hai. Ye guide unse officially linked nahi hai.
