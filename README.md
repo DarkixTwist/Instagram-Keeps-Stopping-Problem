@@ -1,7 +1,16 @@
-# 📌 Instagram "Keeps Stopping" – Complete Guide  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Instagram Keeps Stopping – Complete Guide</title>
+</head>
+<body>
+  <div id="content">
+    # 📌 Instagram "Keeps Stopping" – Complete Guide  
 
 "Instagram Keeps Stopping" ek common problem hai jo alag–alag reasons ki wajah se hoti hai.  
-Neeche maine saare **possible reasons + solutions** ekdum clear aur structured form me explain kiye hain 👇  
+Neeche humne saare **possible reasons + solutions** clear aur structured form me explain kiye hain 👇  
 
 ---
 
@@ -44,6 +53,8 @@ Neeche maine saare **possible reasons + solutions** ekdum clear aur structured f
 - 🔒 **Permissions Issue**  
   - ❌ Problem: Storage/Camera/Microphone access block hone se glitch hota hai  
   - ✅ Fix: App settings me jaa kar permissions allow karo  
+
+---
 
 ### 🌐 Instagram Side Issues  
 
@@ -94,3 +105,6 @@ Neeche maine saare **possible reasons + solutions** ekdum clear aur structured f
 - ✍️ Written & Structured By: **Sia Spride – InstaPrime Helper**  
 - 📌 Usage: Ye guide sirf **educational aur informational purposes** ke liye hai.  
 - ⚖️ Disclaimer: Instagram ek **Meta Platforms Inc.** ka product hai. Ye guide unse officially linked nahi hai.
+  </div>
+</body>
+</html>
