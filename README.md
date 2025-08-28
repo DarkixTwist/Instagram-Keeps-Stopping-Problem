@@ -2,11 +2,13 @@
 
 Welcome to the ultimate guide to fix the **Instagram Keeps Stopping** issue! This guide covers **all possible reasons** (both phone-side & Instagram-side) and provides **clear solutions** to get your Instagram running smoothly again.  
 
+📖 **View/Open the full guide here:** [Instagram Keeps Stopping Guide](https://siaspride.github.io/Instagram-Keeps-Stopping-Problem)  
+
 ---
 
 ## 🔎 What’s Inside
 
-- **Phone Side Issues:** Cache/Data corruption, Storage full, RAM overload, Outdated app, Android bugs, Corrupted installation, Phone overheating, Modded/Unofficial Instagram, Permissions issues.  
+- **Phone Side Issues:** Cache/Data corruption, Storage full, RAM overload, Outdated base, Android bugs, Corrupted installation, Phone overheating, Modded/Unofficial Instagram, Permissions issues.  
 - **Instagram Side Issues:** Server down, Update related bugs.  
 - **Device-Specific Recommendations:** Most affected brands (Oppo, Vivo, Realme, iQOO, Xiaomi) vs stable brands (Samsung, OnePlus, Pixel, Motorola).  
 - **Quick Identification:** Tips to know whether it’s a phone-specific issue or Instagram-wide.  
@@ -19,10 +21,10 @@ Welcome to the ultimate guide to fix the **Instagram Keeps Stopping** issue! Thi
 1. Clear cache & data or reinstall app.  
 2. Free up storage space (1–2GB recommended).  
 3. Close background apps & restart device.  
-4. Update Instagram & system OS to the latest version.  
+4. Update Mod & system OS to the latest version.  
 5. Enable all necessary permissions (Storage, Camera, Microphone).  
 6. Avoid overheating by closing heavy apps.  
-7. Use only official Instagram version.
+7. Use only latest base version mod.
 
 ---
 
@@ -42,7 +44,7 @@ Welcome to the ultimate guide to fix the **Instagram Keeps Stopping** issue! Thi
 
 ## ⚖️ Copyright & Credits
 
-© 2025 Sia Spride – InstaPrime Helper.  
+© 2025 Sia Spride – InstaPrime's Helper.  
 All rights reserved. This guide is created for **educational and informational purposes only**. Instagram is a product of Meta Platforms Inc. This guide is **not officially affiliated** with Instagram/Meta.
 
 ---
