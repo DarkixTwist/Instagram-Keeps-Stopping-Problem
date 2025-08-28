@@ -2,7 +2,8 @@
 
 Welcome to the ultimate guide to fix the **Instagram Keeps Stopping** issue! This guide covers **all possible reasons** (both phone-side & Instagram-side) and provides **clear solutions** to get your Instagram running smoothly again.  
 
-📖 **View/Open the full guide here:** [Instagram Keeps Stopping Guide](https://siaspride.github.io/Instagram-Keeps-Stopping-Problem)  
+📖 **View/Open the full guide here:**
+[Instagram Keeps Stopping Guide](https://siaspride.github.io/Instagram-Keeps-Stopping-Problem)  
 
 ---
 
@@ -37,8 +38,8 @@ Welcome to the ultimate guide to fix the **Instagram Keeps Stopping** issue! Thi
 
 ## 🔗 Connect With Me
 
-- **Telegram:** [https://telegram.me/siaspride](https://telegram.me/siaspride)  
-- **Instagram:** [https://instagram.com/siaspride](https://instagram.com/siaspride)  
+- **TG:** [https://telegram.me/siaspride](https://telegram.me/siaspride)  
+- **IG:** [https://instagram.com/siaspride](https://instagram.com/siaspride)  
 
 ---
 
