@@ -72,7 +72,7 @@ Neeche maine saare **possible reasons + solutions** ekdum clear aur structured f
 
 ### 🔻 Zyada Affected Brands (frequent crash issues)  
 - **Oppo, Vivo, Realme, iQOO, Xiaomi (HyperOS devices)**  
-  - ❌ Problem: In devices me **heavy system customization** (ColorOS, FuntouchOS, MIUI) hota hai jisse Instagram ke sath compatibility issues aate hain.  
+  - ❌ Problem: In devices me **heavy system customization** (ColorOS, FuntouchOS, HyperOS, MIUI) hota hai jisse Instagram ke sath compatibility issues aate hain.  
   - ✅ Fix:  
     - Battery optimization → Instagram ko "Don’t optimize" set karo  
     - Background activity enable rakho  
